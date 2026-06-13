@@ -74,10 +74,10 @@ student-performance-prediction/
 │
 ├── Student_Performance_Prediction.ipynb
 ├── student_habits_performance.csv
+├── cleaning_data.ipynb
 ├── cleaned_student_data.csv
 ├── random_forest_model.pkl
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 ---
